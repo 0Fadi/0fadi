@@ -45,7 +45,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=0fadi&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Fadi streak" src="https://github.com/0Fadi/?user=0fadi&theme=dark&hide_border=false" /> 
+
 </td>
 
 <td width="50%" align="center">
@@ -75,6 +75,13 @@
     <img src="https://skillicons.dev/icons?i=postgres,dynamodb,github,html,java,js,mongodb,mysql,py&vscode=14" />
   </a>
 </p>
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
 
 
 <!--icons and links-->

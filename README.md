@@ -45,7 +45,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=0fadi&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github.com/0Fadi/?user=0fadi&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Fadi streak" src="https://github.com/0Fadi/?user=0fadi&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
@@ -72,7 +72,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postgres,dynamodb,github,html,java,js,mongodb,mysql,nextjs,py,react&vscode=14" />
+    <img src="https://skillicons.dev/icons?i=postgres,dynamodb,github,html,java,js,mongodb,mysql,py&vscode=14" />
   </a>
 </p>
 

@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
+<div >
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Fadi W.Naim</h1></summary>
   </ul>
@@ -18,7 +18,7 @@
 
 
 <!--h2 without bottom border-->
-<div id="user-content-toc">
+<div >
   <ul align="center">
     <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
   </ul>
@@ -64,7 +64,7 @@
 
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
+<div >
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>

@@ -50,7 +50,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=0fadi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -72,7 +72,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postgres,prisma,dynamodb,express,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,py,react,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,postgres,dynamodb,github,html,java,js,mongodb,mysql,nextjs,py,react&vscode=14" />
   </a>
 </p>
 
